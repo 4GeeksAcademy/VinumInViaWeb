@@ -12,21 +12,21 @@ function AppAbout() {
     <section id="about" className="block about-block">
       <Container fluid>
         <div className="title-holder">
-          <h2>La Sociedad</h2>
+          <h2>Sobre nosotros</h2>
           <div className="subtitle">Una forma de vida</div>
         </div>
         <Row>
           <Col sm={3}>
-            <Image style={{height:'360px'}} 
+            <Image style={{ height: '360px' }}
               src={img1} />
           </Col>
           <Col sm={3}>
-            <Image style={{height:'360px'}} 
+            <Image style={{ height: '360px' }}
               src={img2} />
           </Col>
           <Col sm={6}>
-            <p><strong>La Sociedad Jerezana del Vino</strong> es una organización sin ánimo de lucro con sede en Jerez de la Frontera, cuyo objetivo es promover la cultura del vino, especialmente la de las denominaciones de origen Jerez-Xerez-Sherry, Manzanilla de Sanlúcar, Brandy de Jerez y la IGP Vinos de la Tierra de Cádiz. Su labor incluye la divulgación de la cultura vitivinícola a través de actividades formativas y eventos, enfocándose en el consumo responsable y el maridaje con la gastronomía local.</p>
-            <p>Desde su creación, ha organizado más de cien catas, tres Desafíos Cata a Ciegas, y eventos como el I Encuentro de Vinos Andaluces y el Salón del Magnum. También colabora con importantes eventos como la Fiesta de la Vendimia de Jerez, la Semana del Brandy, la Feria del Caballo de Jerez y el Salón Vinoble.</p>
+            <p><strong>Vinum in via aeternum</strong> se especializa en la elaboración, crianza y comercialización de vinos y productos derivados de la uva, así como en la integración de frutas y plantas aromáticas en nuestras creaciones, combinando tradición e innovación. Nuestra misión va más allá del producto: buscamos ser embajadores de la cultura del vino, creando experiencias únicas a través de catas, cursos enológicos y eventos que invitan a descubrir la magia que encierra cada copa. Además, diseñamos y gestionamos viajes enológicos y gastronómicos, tanto dentro como fuera de nuestras fronteras, acercando a los amantes del vino a destinos inolvidables.</p>
+            <p>Por si fuera poco, ofrecemos servicios de asesoramiento y consultoría en enología y vitivinicultura. Nuestro equipo de expertos acompaña a bodegas y productores, brindando asistencia técnica y formación especializada para perfeccionar la producción y comercialización de vinos y otros productos afines.</p>
           </Col>
         </Row>
       </Container>

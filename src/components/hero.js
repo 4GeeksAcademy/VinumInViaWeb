@@ -4,15 +4,15 @@ var heroData = [
   {
     id: 1,
     image: require('../assets/images/vineyard (5).jpg'),
-    title: 'Una forma de vida',
-    description: 'Conoce la rica cultura de nuestra zona disfrutando de la viticultura',
+    title: 'Una pasión',
+    description: 'Nuestro origen y esencia reside en la pasión por el vino y su universo',
     link: 'https://www.google.com'
   },
   {
     id: 2,
     image: require('../assets/images/vineyard (3).jpg'),
-    title: 'Una gran familia',
-    description: 'Los eventos vividos y el disfrute hacen que nuestros socios se sientan parte de una gran familia',
+    title: 'Un compromiso',
+    description: 'Deseamos inspirar y conectar a través del vino, compartiendo con el mundo la riqueza y diversidad de esta tradición milenaria.',
     link: 'https://www.facebook.com'
   },
 ]

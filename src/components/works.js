@@ -70,7 +70,7 @@ const worksData = [
   }
 ]
 
-let active = 2;
+let active = 1;
 let items = [];
 for (let number = 1; number <= 5; number++) {
   items.push(
@@ -85,8 +85,8 @@ function AppWorks() {
     <section id="works" className="block works-block">
       <Container fluid>
         <div className="title-holder">
-          <h2>Eventos</h2>
-          <div className="subtitle">Bienvenidos a nuestros eventos realizados</div>
+          <h2>Próximos eventos</h2>
+          <div className="subtitle">No te quedes fuera de nuestros próximos eventos</div>
         </div>
         <Row className='portfoliolist'>
           {

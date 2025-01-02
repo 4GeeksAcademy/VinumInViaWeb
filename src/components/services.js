@@ -12,26 +12,26 @@ const servicesData = [
   {
     id: 2,
     icon: 'fas fa-wine-glass-empty',
-    title: 'Catas de vinos de España',
-    description: 'Vinos de denominaciones de origen Cava, Jumilla, Ribera, Rioja, Rueda, etc.'
+    title: 'Catas de vinos de España e internacionales',
+    description: 'Vinos de denominaciones de origen Cava, Jumilla, Ribera, Rioja, Rueda, Porto, Champagne, etc.'
   },
   {
     id: 3,
     icon: 'fas fa-wine-bottle',
-    title: 'Catas de vinos internacionales',
-    description: 'Vinos de denominaciones de origen internacionales como Porto, Champagne, etc.'
+    title: 'Venta de vinos selectos',
+    description: 'Venta de una selección de vinos únicos, cuya accesibilidad al público es muy complicada'
   },
   {
     id: 4,
-    icon: 'fas fa-utensils',
-    title: 'Catas maridadas',
-    description: 'Acompañamos las catas de vino con lo mejor de nuestra gastronomía local.'
+    icon: 'fas fa-plane',
+    title: 'Viajes vitivinícolas',
+    description: 'Organizamos viajes programados a destinos con una rica tradición y cultura enológica.'
   },
   {
     id: 5,
     icon: 'fas fa-people-group',
-    title: 'Club social',
-    description: 'La Sociedad Jerezana del Vino actúa como club social al reservarse el derecho de admisión de sus socios, asegurando una experiencia más cercana y enriquecedora.'
+    title: 'Asesoría',
+    description: 'Vinum in via aeternum ofrece el asesoramiento empresarial de sus expertos en el universo vitivinícola.'
   },
   {
     id: 6,
